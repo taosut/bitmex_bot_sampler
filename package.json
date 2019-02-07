@@ -1,0 +1,20 @@
+{
+  "name": "bitmex_sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "save": "^2.3.3",
+    "talib": "^1.0.6",
+    "websocket": "^1.0.28",
+    "ws": "^6.1.3"
+  }
+}
